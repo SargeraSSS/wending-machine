@@ -1,0 +1,5 @@
+ -- machine has 4 states
+    - taking the money    - idle
+    - choosing a protuct    - HasMoney
+    - giving the product    - Dispensing
+    - returning a change   - ReturningChange
